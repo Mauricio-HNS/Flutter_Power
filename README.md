@@ -1,4 +1,4 @@
-<h1>FlutterPower</h1>h1>
+<h1>FlutterPower</h1>
 
 FlutterPower é uma ferramenta de linha de comando open-source que facilita a criação da estrutura inicial de projetos Flutter. Com **FlutterPower**, desenvolvedores podem gerar rapidamente as telas básicas necessárias para um aplicativo Flutter, como tela de apresentação, login, cadastro, e outras funcionalidades essenciais. Isso permite que você economize tempo configurando a arquitetura inicial e se concentre no desenvolvimento das funcionalidades do seu app.
 
